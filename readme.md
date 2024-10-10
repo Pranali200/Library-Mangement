@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file for your backend API for the library management system. It includes instructions on how to set up the project and details about the available APIs.
-
----
 
 # Library Management System Backend
 
